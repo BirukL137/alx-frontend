@@ -33,10 +33,12 @@ body {
   font-size: var(--font-size-medium);
 }
 
-.section-tagline {
+.visually-hidden {
+  display: none;
+}
+
+.section-tagline,
+.card-category{
   color: var(--color-primary);
 }
 
-.card-category {
-  color: var(--color-primary);
-}
