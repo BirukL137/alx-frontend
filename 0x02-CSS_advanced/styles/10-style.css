@@ -48,7 +48,7 @@ body {
 }
 
 .section-header {
-  align-items: --section-header-align;
+  text-align: --section-header-align;
 }
 
 .section-tagline,
